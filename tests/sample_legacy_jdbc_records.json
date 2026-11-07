@@ -1,0 +1,16 @@
+[
+  {
+    "GL_ACCOUNT": "0000400100",
+    "COST_CENTER": "CC_FIN_2026",
+    "AMOUNT": "12500.50",
+    "CURRENCY": "EUR",
+    "LEGACY_REF_NO": "DOC-SQL-991204"
+  },
+  {
+    "GL_ACCOUNT": "0000500200",
+    "COST_CENTER": "CC_LOG_2026",
+    "AMOUNT": "64200.00",
+    "CURRENCY": "EUR",
+    "LEGACY_REF_NO": "DOC-SQL-991205"
+  }
+]
